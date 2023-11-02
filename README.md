@@ -1,19 +1,19 @@
-#Netflix-Clone
+# Netflix-Clone
 Homepage clone projects are web development exercises in which one re-creates a simplified homepage of the web design of popular websites like for Netflix using HTML and CSS.
 
-##Technologies Used
+Technologies Used:
 
 - HTML5
 - CSS3
 - JavaScript
 
-##Usage
+Usage:
 
 - Use this project to learn about web development and creating a responsive user interface.
 - Customize the content or appearance according to your preferences.
 - Contribute to the project by adding new features, fixing bugs, or improving the code.
 
-##Contributing
+Contributing:
 
 We welcome contributions! If you'd like to contribute, please follow these steps:
 
